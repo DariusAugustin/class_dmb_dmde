@@ -1,3 +1,7 @@
+Modified CLASS code where both dark matter-dark energy interactions and dark matter-baryon interactions were added.
+
+The original readme is added below.
+
 CLASS: Cosmic Linear Anisotropy Solving System  {#mainpage}
 ==============================================
 
